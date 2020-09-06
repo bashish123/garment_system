@@ -3,7 +3,7 @@ from tkinter import ttk
 from time import strftime
 import pymysql
 from tkinter import messagebox
-import numpy
+
 class Garment:
     def __init__(self, root):
         self.root = root
